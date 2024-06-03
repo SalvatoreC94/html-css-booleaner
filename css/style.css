@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.sfondo {
+    background-image: url(img/pattern.png);
+    background-color: lightskyblue;
+    padding: 18px;
+}
+
+.immagine-logo {
+    width: 250px;
+    padding-top: 90px;
+    padding-left: 15px;
+}
+
+.autore {
+    color: grey;
+}
+
+.booleaner {
+    color: lightblue;
+}
+
+.tim1 {
+    width: 500px;
+    height: 320px;
+    padding-top: 15px;
+
+}
+
+.tim2 {
+    width: 400px;
+    height: 320px;
+    padding-top: 15px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+.lista-ul {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.tabella {
+    border-collapse: collapse;
+    margin-top: 25px;
+    width: 100%;
+}
+
+.titolo-tabella {
+    background-color: #0784d6;
+    color: #fff;
+}
