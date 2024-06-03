@@ -11,7 +11,7 @@
 
 .sfondo {
     background-image: url(img/pattern.png);
-    background-color: lightskyblue;
+    background-color: rgb(78, 160, 255);
     padding: 18px;
 }
 
@@ -64,4 +64,37 @@
 
 .corpo-tabella {
     background-color: lightskyblue;
+}
+
+p {
+    padding: 20px 0px;
+
+}
+
+.monitor {
+    color: white;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 225px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+
+}
+
+.grafico {
+    color: white;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 225px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+
+}
+
+.di-piu {
+    color: gray;
 }
